@@ -2519,18 +2519,18 @@ A Subset for __Architecture and Infrastructure__
 
 * Version Control
   * Workflow
-    * [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
-    * [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
-    * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+    * [~~Comparing Workflows~~](https://www.atlassian.com/git/tutorials/comparing-workflows)
+    * [~~Understanding the GitHub Flow~~](https://guides.github.com/introduction/flow/)
+    * [~~A successful Git branching model~~](http://nvie.com/posts/a-successful-git-branching-model/)
   * GUI
-    * [SourceTree](https://www.sourcetreeapp.com/)
+    * [~~SourceTree~~](https://www.sourcetreeapp.com/)
   * Github
-    * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
-    * [Github Help](https://help.github.com/)
-    * [How we organize GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
+    * [~~GitHub Cheat Sheet~~](https://github.com/tiimgreen/github-cheat-sheet)
+    * [~~Github Help~~](https://help.github.com/)
+    * [~~How we organize GitHub issues: A simple styleguide for tagging~~](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
     * Chrome Extensions
-      * [OctoLinker](https://octolinker.github.io/), [Octotree](https://github.com/buunguyen/octotree), [Code Climate](https://codeclimate.com/browser-extension/)
-      * [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
+      * [~~OctoLinker~~](https://octolinker.github.io/), [Octotree](https://github.com/buunguyen/octotree), [Code Climate](https://codeclimate.com/browser-extension/)
+      * [~~Awesome browser extensions for GitHub~~](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 * ChatOps
   * [What is ChatOps? And How do I Get Started?](https://www.pagerduty.com/blog/what-is-chatops/), \
     [What is ChatOps? A guide to its evolution, adoption, and significance](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide)
