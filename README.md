@@ -24,7 +24,7 @@
 * This document originated from a bunch of most commonly used links and learning resources I sent to every new web developer on our full-stack web development team.
 * What I'm doing in this document now is trying to provide the __complete view angle__ of __modern web (app or page) development ruled by JavaScript__, reflect __technological advance__ and help developers to __acquire APIs, libraries, tools, services, best practices and learning resource__ which are __not outdated__ and __most commonly used__.
 * I hope this document can __help one developer to have more power to do much more and much better__, just __like a spellbook does in fantasy worlds__.
-* The JS/web technology is like [an ocean of stuff you don’t know](https://medium.com/javascript-scene/why-im-thankful-for-js-fatigue-i-know-you-re-sick-of-those-words-but-this-is-different-296fae0c888f). Simply collecting more stuff or composing dozens of "awesome lists" into a single one will only exacerbate the [Javascript Fatigue](https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4). So this document must __stay lean__ and focus on __the most frequent problems__ and __the most commonly used stuff__.
+* The JS/web technology is like [~~an ocean of stuff you don’t know~~](https://medium.com/javascript-scene/why-im-thankful-for-js-fatigue-i-know-you-re-sick-of-those-words-but-this-is-different-296fae0c888f). Simply collecting more stuff or composing dozens of "awesome lists" into a single one will only exacerbate the [~~Javascript Fatigue~~](https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4). So this document must __stay lean__ and focus on __the most frequent problems__ and __the most commonly used stuff__.
 * So for each problem domain and each technology, I try my best to pick only __one or a few__ links.
 * Which link belongs to "not outdated and most commonly used stuff" is not only decided by __clear trends__, __empirical observation__, and __working experience__, also by __public data__ and __web scraping scripts__.
 * __The npm package statistics (like download count) are given more weight than Github repo statistics (like starring data)__ because npm statistics can better reflect the actual usage and popularity.
@@ -216,13 +216,13 @@ A Subset for __Architecture and Infrastructure__
 ### Open Web Platform
 
 * Learning
-  * [What is the Internet](http://www.20thingsilearned.com/en-US/what-is-the-internet/), [How does the Internet work](https://www.w3.org/wiki/How_does_the_Internet_work)
+  * [~~What is the Internet~~](http://www.20thingsilearned.com/en-US/what-is-the-internet/), [How does the Internet work](https://www.w3.org/wiki/How_does_the_Internet_work)
     * HTTP - see _[Server Side > Network](#network)_
-  * [Evolution of the Web](http://www.evolutionoftheweb.com/)
-    * [Timeline of web browsers](https://en.wikipedia.org/wiki/Timeline_of_web_browsers)
+  * [~~Evolution of the Web~~](http://www.evolutionoftheweb.com/)
+    * [~~Timeline of web browsers~~](https://en.wikipedia.org/wiki/Timeline_of_web_browsers)
     * [Dive Into HTML5 - A Quite Biased History of HTML5](http://diveintohtml5.info/past.html)
-    * [20 Things I Learned About Browsers and the Web](http://www.20thingsilearned.com/)
-  * MDN's [Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
+    * [~~20 Things I Learned About Browsers and the Web~~](http://www.20thingsilearned.com/)
+  * MDN's [~~Learn Web Development~~](https://developer.mozilla.org/en-US/docs/Learn)
   * [Mastering CSS Principles: A Comprehensive Guide](https://www.smashingmagazine.com/mastering-css-principles-comprehensive-reference-guide/)
 * Reference
   * [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
