@@ -2413,60 +2413,6 @@ A Subset for __Architecture and Infrastructure__
     * Write
       * [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
       * [Mermaid Preview](https://marketplace.visualstudio.com/items?itemName=vstirbu.vscode-mermaid-preview)
-* [Atom](https://atom.io/) Plugins
-  * UI
-    * [fonts](https://atom.io/packages/fonts)
-    * [file-icons](https://atom.io/packages/file-icons)
-    * [highlight-line](https://atom.io/packages/highlight-line), [highlight-selected](https://atom.io/packages/highlight-selected)
-    * [indent-guide-improved](https://atom.io/packages/indent-guide-improved), [trailing-spaces](https://atom.io/packages/trailing-spaces)
-  * Operating
-    * [vim-mode-plus](https://atom.io/packages/vim-mode-plus), [jumpy](https://atom.io/packages/jumpy)
-    * [Sublime-Style-Column-Selection](https://atom.io/packages/Sublime-Style-Column-Selection)
-    * [Emmet](https://atom.io/packages/emmet)
-    * Snippets
-      * [turbo-javascript](https://atom.io/packages/turbo-javascript)
-  * Formating
-    * [auto-detect-indentation](https://atom.io/packages/auto-detect-indentation), [editorconfig](https://atom.io/packages/editorconfig)
-    * [prettier-atom](https://atom.io/packages/prettier-atom)
-    * [atom-stylefmt](https://atom.io/packages/stylefmt) / [postcss-sorting](https://atom.io/packages/postcss-sorting) / [atom-beautify](https://atom.io/packages/atom-beautify)
-    * [aligner](https://atom.io/packages/aligner) / [atom-alignment](https://atom.io/packages/atom-alignment)
-    * [toggle-quotes](https://atom.io/packages/toggle-quotes)
-  * Static Analysis
-    * [file-types](https://atom.io/packages/file-types)
-    * [language-babel](https://atom.io/packages/language-babel), [atom-ternjs](https://atom.io/packages/atom-ternjs)
-    * [language-postcss](https://atom.io/packages/language-postcss)
-    * [language-mjml](https://atom.io/packages/language-mjml)
-    * [linter-eslint](https://atom.io/packages/linter-eslint), [linter-flow](https://atom.io/packages/linter-flow), [linter-stylelint](https://atom.io/packages/linter-stylelint), [linter-htmlhint](https://atom.io/packages/linter-htmlhint), [linter-mjml](https://atom.io/packages/linter-mjml), [linter-jsonlint](https://atom.io/packages/linter-jsonlint), [linter-js-yaml](https://atom.io/packages/linter-js-yaml)
-  * Docs
-    * [dash](https://atom.io/packages/dash)
-    * [Hyperclick](https://atom.io/packages/hyperclick), [js-hyperclick](https://atom.io/packages/js-hyperclick)
-    * [keybinding-cheatsheet](https://atom.io/packages/keybinding-cheatsheet)
-  * Assistant
-    * [Project Manager](https://atom.io/packages/project-manager)
-    * [todo-show](https://atom.io/packages/todo-show) / [imdone-atom](https://atom.io/packages/imdone-atom)
-  * Integration
-    * [GitHub for Atom](https://github.atom.io/)
-    * [Build](https://atom.io/packages/build)
-      * [AtomBuild](https://atombuild.github.io/)
-    * [Markdown Preview Plus](https://atom.io/packages/markdown-preview-plus)
-* Out-of-the-box Atom IDE
-  * [YAtom](https://github.com/dexteryy/YAtom) (author's own project)
-  * [Nuclide](https://nuclide.io/)
-  * [Reactide](http://reactide.io/)
-* Other Electron-based IDE
-  * [Deco](https://www.decoide.org/)
-* [WebStorm](https://www.jetbrains.com/webstorm/)
-* Programming Fonts
-  * [Hack](http://sourcefoundry.org/hack/)
-  * [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
-  * [Source Code Pro](http://adobe-fonts.github.io/source-code-pro/)
-  * [Fira Mono](http://mozilla.github.io/Fira/)
-  * [Google Noto Mono](https://www.google.com/get/noto/)
-  * [Droid Sans Mono](https://fonts.google.com/specimen/Droid+Sans+Mono)
-  * [Space Mono](https://fonts.google.com/specimen/Space%20Mono)
-  * [M+](http://mplus-fonts.osdn.jp/about-en.html)
-  * [Mononoki](http://madmalik.github.io/mononoki/)
-  * [Profont](http://tobiasjung.name/profont/)
 
 \>\> Return to [Table of Contents](#table-of-contents)
 
